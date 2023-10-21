@@ -26,7 +26,7 @@ class View {
     });
   }
 
-  displayCountrites(countries) {
+  displayCountries(countries) {
     const container = document.querySelector('#countries-container');
     container.innerHTML = '';
 
