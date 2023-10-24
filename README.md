@@ -1,6 +1,9 @@
 # countries-app-mvvm
 Frontend application using AccuWeather API. App created as an exercise for the Mobile and Web Development Course held at Warsaw University of Technology. App making use of the famous MVVM app architecture.
 
+## Presentation
+https://www.youtube.com/watch?v=QY4vbKzRc3E&ab_channel=czacza
+
 <img src="https://github.com/czaacza/countries-app/blob/master/img/countries-app-img.png" height="400" />
 
 ## How does it work?
